@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.lucasr.twowayview</groupId>
+  <artifactId>twowayview</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130806222030</lastUpdated>
+  </versioning>
+</metadata>
