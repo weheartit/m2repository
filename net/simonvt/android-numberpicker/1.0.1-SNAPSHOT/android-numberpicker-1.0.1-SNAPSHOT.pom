@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.simonvt</groupId>
-  <artifactId>android-numberpicker-parent</artifactId>
+  <artifactId>android-numberpicker</artifactId>
   <version>1.0.1-SNAPSHOT</version>
   <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
