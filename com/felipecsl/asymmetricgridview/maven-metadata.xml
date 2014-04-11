@@ -4,8 +4,9 @@
   <artifactId>asymmetricgridview</artifactId>
   <versioning>
     <versions>
+      <version>1.0.5-SNAPSHOT</version>
       <version>1.0.4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140410211652</lastUpdated>
+    <lastUpdated>20140411024018</lastUpdated>
   </versioning>
 </metadata>
