@@ -2,22 +2,22 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.felipecsl</groupId>
   <artifactId>asymmetricgridview</artifactId>
-  <version>1.0.12-SNAPSHOT</version>
+  <version>1.0.11-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20140412133744</lastUpdated>
+    <lastUpdated>20140411184046</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>aar</extension>
-        <value>1.0.12-SNAPSHOT</value>
-        <updated>20140412133744</updated>
+        <value>1.0.11-SNAPSHOT</value>
+        <updated>20140411184046</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.12-SNAPSHOT</value>
-        <updated>20140412133744</updated>
+        <value>1.0.11-SNAPSHOT</value>
+        <updated>20140411184046</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
