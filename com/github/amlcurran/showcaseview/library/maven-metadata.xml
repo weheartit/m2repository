@@ -4,8 +4,8 @@
   <artifactId>library</artifactId>
   <versioning>
     <versions>
-      <version>5.0.5-SNAPSHOT</version>
+      <version>5.0.6-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140716214956</lastUpdated>
+    <lastUpdated>20140722010402</lastUpdated>
   </versioning>
 </metadata>
